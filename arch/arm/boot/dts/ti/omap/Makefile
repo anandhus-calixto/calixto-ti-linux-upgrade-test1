@@ -102,7 +102,15 @@ dtb-$(CONFIG_SOC_AM33XX) += \
 	am335x-chiliboard.dtb \
 	am335x-cm-t335.dtb \
 	am335x-evm.dtb \
-	am335x-calixto-versa-nxt.dtb \
+	am335x-calixto-versa-nxt256.dtb \
+	am335x-calixto-versa-nxt512.dtb \
+	am335x-calixto-versa-nxt1024.dtb \
+	am335x-calixto-stamp-nxt256.dtb \
+	am335x-calixto-stamp-nxt512.dtb \
+	am335x-calixto-stamp-nxt1024.dtb \
+	iot-gateway-rosella256.dtb \
+	iot-gateway-rosella512.dtb \
+	iot-gateway-rosella1024.dtb \
 	am335x-evmsk.dtb \
 	am335x-guardian.dtb \
 	am335x-icev2.dtb \
