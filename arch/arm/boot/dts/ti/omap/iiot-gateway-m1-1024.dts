@@ -20,7 +20,7 @@
 #include <dt-bindings/interrupt-controller/irq.h>
 
 / {
-	model = "GLOWFY-GATEWAY-ROSELLA";
+	model = "IIOT-GATEWAY-M1";
 	compatible = "ti,am335x-calixto-stamp-nxt", "ti,am33xx";
 
 	cpus {

@@ -20,7 +20,7 @@
 #include <dt-bindings/interrupt-controller/irq.h>
 
 / {
-	model = "GLOWFY-GATEWAY-ROSELLA";
+	model = "IIOT-GATEWAY-M1
 	compatible = "ti,am335x-calixto-stamp-nxt", "ti,am33xx";
 
 	cpus {
@@ -31,7 +31,7 @@
 
 	memory@80000000 {
 		device_type = "memory";
-		reg = <0x80000000 0x40000000>; /* 1024MB */
+		reg = <0x80000000 0x20000000>; /* 512MB */
 	};
 
 	chosen {
